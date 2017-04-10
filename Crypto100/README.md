@@ -25,7 +25,7 @@ komutu ile çevrildi.
 olarak çevrilebilir.
 örnek site: [PlanetCalc](https://planetcalc.com/1434/)
 
-![rot](Crypto100/img/rot23.png)
+![rot](Crypto100/img/rot23.jpg)
 
 bu fotoğrafta Sezar şifrelemenin tüm rotlarda denendiği ve sonucun '''cypwn_{flagbulundu}'''
 olarak rot23 te karşımıza çıkıyor.
