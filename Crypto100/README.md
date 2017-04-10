@@ -2,7 +2,7 @@ The Secret of The Photo
 
 Soruda Canyoupwn me logosuna stenografi kullanarak gizlenmiş şifreli metni bulmamızı istiyor.
 
-! [cypwn](/Crypto100/img/ctf-canyoupwnme.jpg)
+! (/Crypto100/img/ctf-canyoupwnme.jpg)
 
 bu fotoğraftaki metine terminalden sneghide sayesine ulaşılabilir.
 Steghide indirmek için:
@@ -10,7 +10,7 @@ Steghide indirmek için:
 apt-get install steghide
 ```
 
-! [komutlar](Crypto100/img/komutlar.png)
+! (Crypto100/img/komutlar.png)
 
 Bu komutlar ile Fotoğrafta gizlenen metni Steghide ile ortaya "flag.txt" çıktı.
  daha sonra flagdan çıkan kod sonundaki = işaretinden base64 e benziyor gibi ve yine terminal
