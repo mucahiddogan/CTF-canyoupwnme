@@ -4,7 +4,7 @@ Soruda Canyoupwn me logosuna stenografi kullanarak gizlenmiş şifreli metni bul
 
 ![cypwn](img/ctf-canyoupwnme.jpg)
 
-bu fotoğraftaki metine terminalden sneghide sayesine ulaşılabilir.
+bu fotoğraftaki metine terminalden steghide sayesine ulaşılabilir.
 Steghide indirmek için:
 ```
 apt-get install steghide
@@ -20,10 +20,11 @@ Bu komutlar ile Fotoğrafta gizlenen metni Steghide ile ortaya "flag.txt" çıkt
  echo -n "metinnnnn" | base64 -d
  ```
 
-komutu ile çevrildi.
+komutu ile çevrilebilir.
 çıkan sonuç ise Sezar şifreleme ile oluşturulmuş. Sezar şifreleme rotları ise kod yazılmazsa online
 olarak çevrilebilir.
-örnek site: [PlanetCalc](https://planetcalc.com/1434/)
+örnek site: 
+[PlanetCalc](https://planetcalc.com/1434/)
 
 ![rot](img/rot.png)
 
