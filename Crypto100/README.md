@@ -10,7 +10,7 @@ Steghide indirmek için:
 apt-get install steghide
 ```
 
-![komut](Crypto100/img/komutlar.png)
+![komut](Crypto100/img/komut.png)
 
 Bu komutlar ile Fotoğrafta gizlenen metni Steghide ile ortaya "flag.txt" çıktı.
  daha sonra flagdan çıkan kod sonundaki = işaretinden base64 e benziyor gibi ve yine terminal
@@ -25,7 +25,7 @@ komutu ile çevrildi.
 olarak çevrilebilir.
 örnek site: [PlanetCalc](https://planetcalc.com/1434/)
 
-![rot](Crypto100/img/rot23.jpg)
+![rot](Crypto100/img/rot.png)
 
 bu fotoğrafta Sezar şifrelemenin tüm rotlarda denendiği ve sonucun '''cypwn_{flagbulundu}'''
 olarak rot23 te karşımıza çıkıyor.
