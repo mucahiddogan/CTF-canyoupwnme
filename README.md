@@ -1,5 +1,6 @@
 # CTF-gameofpwners
 
-Devamı Hazırlanıyor..
 
 ![logo](/img/logo.png)
+
+Devamı Hazırlanıyor..
