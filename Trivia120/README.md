@@ -19,7 +19,7 @@ Find and Replace özelliği ile tekrar eden karakterleri
 
 Replace kısmını boş bırakarak Replace all denilip asıl metin ortaya çıkarılabilir.
 
-![flag](img/flag.png)
+![flag](img/flagg.png)
 
 ```
 flag: cypwn_{matrixhacker}
