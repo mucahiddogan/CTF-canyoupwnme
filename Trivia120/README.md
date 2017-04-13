@@ -1,6 +1,6 @@
-Trivia120
+# Trivia120
 
-Mr. Robot
+# Mr. Robot
 
 Soru linki: http://dosya.co/kdi5poggcvp3/ctfcypm.html.html
 
