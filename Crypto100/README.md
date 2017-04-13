@@ -30,3 +30,7 @@ olarak çevrilebilir.
 
 bu fotoğrafta Sezar şifrelemenin tüm rotlarda denendiği ve sonucun '''cypwn_{flagbulundu}'''
 olarak rot23 te karşımıza çıkıyor.
+
+```
+flag: cypwn_{flagbulundu}
+```
