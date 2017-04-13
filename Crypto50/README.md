@@ -1,6 +1,6 @@
 # Crypto50
 
-#OldSchool
+# OldSchool
 
 ![ctf](img/ctf.png)
 
